@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "487642107283",
+    "project_id": "allen-dc4ef",
+    "storage_bucket": "allen-dc4ef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:487642107283:android:ad5ae165ee44264da7ac66",
+        "android_client_info": {
+          "package_name": "com.example.allen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAT4b1OnqEJqMfiZpQ0Ta0aqXleTaxLWm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
